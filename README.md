@@ -2,7 +2,7 @@
 # Olá! tudo bem?👋🏼
 Me chamo Matheus Castro. Sou do interior do Ceará (Tijuca), mas atualmente estou morando no município de Maranguepe-Ce no Parque São João, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha pequena jornada no GitHub.
 
-ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _SQL_, Python, Java, Java Script, C++, CSS, HTML5.
+ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**SQL**_, _**Python**_, _**Java**_, _**Java Script**_, _**C++**_, _**CSS**_, _**HTML5**_.
  
 ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email matheus.castro09@aluno.ifce.edu.br
 
