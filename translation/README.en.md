@@ -24,4 +24,4 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 
 ### Read in Portuguese
 
-<kbd><img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/pt.svg" width="22"></kbd>
+<kbd><img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd>
