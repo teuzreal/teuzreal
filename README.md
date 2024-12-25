@@ -6,7 +6,7 @@ Me chamo Matheus Castro. Sou do interior do Ceará (Tijuca), mas atualmente esto
  
 ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email matheus.castro09@aluno.ifce.edu.br
 
-ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. tipo, Free Fire, Standoff e Fortnite.
+ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. tipo, _**Free Fire**_, _**Standoff**_ e _**Fortnite**_.
 
 
 ### Linguagens
