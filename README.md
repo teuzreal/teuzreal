@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! tudo bem?👋🏼</h1>
 
-_**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualmente estou morando no município de Maranguepe-Ce no Parque São João, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha pequena jornada no _**GitHub**_.
+_**Me chamo Matheus Castro**_, tenho 17 anos. Sou do interior do Ceará (Tijuca), mas atualmente estou morando no município de Maranguepe-Ce no Parque São João, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha pequena jornada no _**GitHub**_.
 
 ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**Java**_, _**HTML**_. 
 
