@@ -1,5 +1,5 @@
 
-### Olá! eu sou o teuzz 👋🏼
+## Olá! eu sou o teuzz 👋🏼
 ### _________________________________________________________________________________________________
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teuzreal/)
