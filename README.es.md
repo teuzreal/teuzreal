@@ -3,7 +3,7 @@ Me llamo Matheus Castro. Soy del interior de Ceará (Tijuca), pero actualmente v
 
 ㅤ➢ 🌱 Actualmente en este curso estoy estudiando Python, Java y HTML.
 
-ㅤㅤㅤㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ㅤㅤㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ㅤ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -13,8 +13,9 @@ Me llamo Matheus Castro. Soy del interior de Ceará (Tijuca), pero actualmente v
 
 ㅤ➢ ⚡ Curiosidades sobre mí: Me encanta jugar juegos de FPS, como Free Fire, Standoff y Fortnite.
 
-Herramientas
-ㅤㅤㅤㅤ
+## Herramientas
 
-Lee en Portugués.
-<kbd>Portugués</kbd>
+
+
+## Lee en otros idiomas:
+<kbd>Portugués</kbd> | <kbd>Inglés</kbd>
