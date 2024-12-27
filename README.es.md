@@ -13,9 +13,11 @@ Me llamo Matheus Castro. Soy del interior de Ceará (Tijuca), pero actualmente v
 
 ㅤ➢ ⚡ Curiosidades sobre mí: Me encanta jugar juegos de FPS, como Free Fire, Standoff y Fortnite.
 
-## Herramientas
+### Herramientas
 
+![](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
+ㅤㅤ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+ㅤㅤ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## Lee en otros idiomas:
+### Lee en otros idiomas:
 <kbd>Portugués</kbd> | <kbd>Inglés</kbd>
