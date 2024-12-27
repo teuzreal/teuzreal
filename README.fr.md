@@ -4,11 +4,11 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 
 ㅤ➢ 🌱 Actuellement, dans ce cours, j'étudie _**Python**_, _**Java**_ et _**HTML**_.
 
-ﾠﾠﾠﾠﾠ ﾠ  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-ﾠ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-ﾠ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+                 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-ㅤㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
+ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
 ㅤ➢ 📫 Si tu veux, tu peux me contacter par e-mail à matheus.castro09@aluno.ifce.edu.br
 
