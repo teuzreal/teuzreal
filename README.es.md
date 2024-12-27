@@ -4,9 +4,9 @@ _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualm
 
 ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**Java**_ y _**HTML**_.
 
-ㅤㅤㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-ㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-ㅤ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ﾠﾠﾠﾠﾠ ﾠ  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ﾠ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ﾠ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ㅤㅤㅤ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
