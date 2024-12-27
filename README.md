@@ -20,7 +20,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 ㅤㅤ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Leia em outros Idiomas
-<kbd>[Inglês](README.us.md)</kbd> <kbd>[Espanhol](README.es.md)</kbd>
+<kbd>[Inglês](README.us.md)</kbd> | <kbd>[Espanhol](README.es.md)</kbd>
 
 
 
