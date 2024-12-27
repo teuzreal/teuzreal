@@ -12,10 +12,12 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 
 ㅤ➢ 📫 Si tu veux, tu peux me contacter par e-mail à matheus.castro09@aluno.ifce.edu.br
 
-ㅤ➢ ⚡ Quelques curiosités à propos de moi : J'adore jouer à des jeux FPS, comme Free Fire, Standoff et Fortnite.
+ㅤ➢ ⚡ Quelques curiosités à propos de moi : J'adore jouer à des jeux FPS, comme _**Free Fire**_, _**Standoff**_ et _**Fortnite**_.
 
 ### Outils
-ㅤㅤㅤㅤ
+![](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
+ㅤㅤ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+ㅤㅤ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Lire en d'autres langues :
-<kbd>Portugais</kbd> | <kbd>Anglais</kbd>
+### Lire en d'autres langues
+<kbd>[Português](README.md)</kbd> | <kbd>[Inglês](README.us.md)</kbd> | <kbd>[Espanhol](README.es.md)</kbd>
