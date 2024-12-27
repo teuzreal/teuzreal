@@ -1,7 +1,8 @@
 <h1 align="center"> ¡Hola! ¿Todo bien?👋🏼</h1>
-Me llamo Matheus Castro. Soy del interior de Ceará (Tijuca), pero actualmente vivo en el municipio de Maranguape-Ce, en el Parque São João. Soy estudiante del Instituto Federal de Ceará (IFCE), en el campus de Maranguape, donde estudio Informática Técnica. Y estoy aquí para comenzar mi pequeño viaje en GitHub.
 
-ㅤ➢ 🌱 Actualmente en este curso estoy estudiando Python, Java y HTML.
+_**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualmente vivo en el municipio de Maranguape-Ce, en el Parque São João. Soy estudiante del _Instituto Federal de Ceará (IFCE), en el campus de Maranguape_, donde estudio Informática Técnica. Y estoy aquí para comenzar mi pequeño viaje en _**GitHub**_.
+
+ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**Java**_ y _**HTML**_.
 
 ㅤㅤㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -11,7 +12,7 @@ Me llamo Matheus Castro. Soy del interior de Ceará (Tijuca), pero actualmente v
 
 ㅤ➢ 📫 Si quieres, puedes contactarme por correo electrónico a matheus.castro09@aluno.ifce.edu.br
 
-ㅤ➢ ⚡ Curiosidades sobre mí: Me encanta jugar juegos de FPS, como Free Fire, Standoff y Fortnite.
+ㅤ➢ ⚡ Curiosidades sobre mí: Me encanta jugar juegos de FPS, como _**Free Fire**_, _**Standoff**_ y _**Fortnite**_.
 
 ### Herramientas
 
