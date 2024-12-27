@@ -1,8 +1,8 @@
 <h1 align="center"> Bonjour ! Ça va bien ?👋🏼</h1>
 
-Je m'appelle Matheus Castro. Je viens de l'intérieur du Ceará (Tijuca), mais je vis actuellement dans la municipalité de Maranguape-Ce, au Parc São João. Je suis étudiant à l'Institut Fédéral du Ceará (IFCE), sur le campus de Maranguape, où je poursuis des études en Informatique Technique. Et je suis ici pour commencer mon petit voyage sur GitHub.
+_**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), mais je vis actuellement dans la municipalité de Maranguape-Ce, au Parc São João. Je suis étudiant à _l'Institut Fédéral du Ceará (IFCE), sur le campus de Maranguape_, où je poursuis des études en Informatique Technique. Et je suis ici pour commencer mon petit voyage sur _**GitHub**_.
 
-ㅤ➢ 🌱 Actuellement, dans ce cours, j'étudie Python, Java et HTML.
+ㅤ➢ 🌱 Actuellement, dans ce cours, j'étudie _**Python**_, _**Java**_ et _**HTML**_.
 
 ㅤㅤㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ㅤ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,8 +14,8 @@ Je m'appelle Matheus Castro. Je viens de l'intérieur du Ceará (Tijuca), mais j
 
 ㅤ➢ ⚡ Quelques curiosités à propos de moi : J'adore jouer à des jeux FPS, comme Free Fire, Standoff et Fortnite.
 
-Outils
+### Outils
 ㅤㅤㅤㅤ
 
-Lire en d'autres langues :
+## Lire en d'autres langues :
 <kbd>Portugais</kbd> | <kbd>Anglais</kbd>
