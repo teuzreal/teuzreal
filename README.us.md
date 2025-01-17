@@ -3,11 +3,12 @@
 _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I currently live in the municipality of Maranguape-Ce, at Parque São João. I am a student at the _Federal Institute of Ceará (IFCE), Maranguape Campus_, where I am pursuing a Technical degree in Informatics. I'm here to start my small journey on _**GitHub**_.
 
 
-ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**Java**_, and _**HTML**_.
+ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**Java**_, _**HTML**_ and _**Mysql**_.
 
            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Mysql](https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
 
 ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
