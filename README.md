@@ -2,11 +2,12 @@
 
 _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualmente estou morando no município de Maranguepe-Ce no Parque São João, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha pequena jornada no _**GitHub**_.
 
-ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**Java**_, _**HTML**_. 
+ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**Java**_, _**HTML**_ e _**Mysql**_. 
 
             ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Mysql](https://img.shields.io/badge/MySQL-555555?style=for-the-badge&logo=mysql&logoColor=white)
 
 ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
