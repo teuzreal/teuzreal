@@ -5,7 +5,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 
 ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**Java**_, and _**HTML**_.
 
-            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+           ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
