@@ -3,12 +3,15 @@
 _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I currently live in the municipality of Maranguape-Ce, at Parque São João. I am a student at the _Federal Institute of Ceará (IFCE), Maranguape Campus_, where I am pursuing a Technical degree in Informatics. I'm here to start my small journey on _**GitHub**_.
 
 
-ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**Java**_, _**HTML**_ and _**Mysql**_.
+ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Mysql**_ and _**Java**_. 
 
-           ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
- ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
+            ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-ffc000?style=for-the-badge&logo=javascript&logoColor=black)
  ![Mysql](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
