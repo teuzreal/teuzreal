@@ -15,7 +15,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 
 ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
-ㅤ➢ 📫 You can contact me via email at matheus.castro09@aluno.ifce.edu.br
+ㅤ➢ 📫 You can contact me via email: matheus.castro09@aluno.ifce.edu.br
 
 ㅤ➢ ⚡ Fun facts about me: I love playing fps games, like _**Free Fire**_, _**Standoff**_ and _**Fortnite**_.
 
