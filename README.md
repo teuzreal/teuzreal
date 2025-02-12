@@ -13,7 +13,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
-ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email matheus.castro09@aluno.ifce.edu.br
+ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email: matheus.castro09@aluno.ifce.edu.br
 
 ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. tipo, _**Free Fire**_, _**Standoff**_ e _**Fortnite**_.
 
