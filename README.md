@@ -7,7 +7,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
             ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-ffc00.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
 
