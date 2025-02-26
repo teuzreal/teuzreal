@@ -12,7 +12,7 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
-ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
+ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&size_weight=0.5&count_weight=0.5)
 
 ㅤ➢ 📫 Si tu veux, tu peux me contacter par e-mail: matheus.castro09@aluno.ifce.edu.br
 
