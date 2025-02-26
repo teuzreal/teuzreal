@@ -11,7 +11,7 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 ![MySQL](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
 
-ㅤㅤ    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
+ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
 ㅤ➢ 📫 Si tu veux, tu peux me contacter par e-mail: matheus.castro09@aluno.ifce.edu.br
 
