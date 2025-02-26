@@ -2,7 +2,7 @@
 
 _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualmente vivo en el municipio de Maranguape-Ce, en el Parque São João. Soy estudiante del _Instituto Federal de Ceará (IFCE), en el campus de Maranguape_, donde estudio Informática Técnica. Y estoy aquí para comenzar mi pequeño viaje en _**GitHub**_.
 
-ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_ y _**Java**_. 
+ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_, _**Java**_ y _**C++**_. 
 
             ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -10,6 +10,7 @@ _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualm
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
