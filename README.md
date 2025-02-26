@@ -4,13 +4,13 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_, _**Java**_ e _**C++**_. 
 
-              ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+              ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
+![HTML5](https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5&logoColor=FF6633)
+![CSS](https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=00FF33)
+![JavaScript](https://img.shields.io/badge/javascript-222222.svg?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=MySQL&logoColor=3399CC)
+![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=FF0033)
+![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=C%2B%2B&logoColor=CC6699)
 
 ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&size_weight=0.5&count_weight=0.5)
 
