@@ -11,6 +11,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-0099ff?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff3333?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true)
 
