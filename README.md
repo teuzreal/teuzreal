@@ -20,7 +20,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ### Ferramentas
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-111111.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
