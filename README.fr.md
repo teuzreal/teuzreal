@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour! Ça va bien?👋🏼</h1>
+<h1 align="center"> Bonjour! Ça va bien? 👋🏼</h1>
 
 _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), mais je vis actuellement dans la municipalité de Maranguape-Ce, au Parc São João. Je suis étudiant à _l'Institut Fédéral du Ceará (IFCE), sur le campus de Maranguape_, où je poursuis des études en Informatique Technique. Et je suis ici pour commencer mon petit voyage sur _**GitHub**_.
 
