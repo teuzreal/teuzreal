@@ -2,7 +2,7 @@
 
 _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualmente vivo en el municipio de Maranguape-Ce, en el Parque São João. Soy estudiante del _Instituto Federal de Ceará (IFCE), en el campus de Maranguape_, donde estudio Informática Técnica. Y estoy aquí para comenzar mi pequeño viaje en _**GitHub**_.
 
-ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_, _**Java**_ y _**C++**_. 
+ㅤ➢ 🌱 Actualmente en este curso estoy estudiando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ y _**C++**_. 
 
               ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
 ![HTML5](https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5&logoColor=FF6633)
