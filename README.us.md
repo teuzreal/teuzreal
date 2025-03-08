@@ -18,7 +18,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 
 ㅤ➢ 📫 You can contact me via email: matheus.castro09@aluno.ifce.edu.br
 
-ㅤ➢ ⚡ Fun facts about me: I love playing fps games, like _**Free Fire**_, _**Standoff**_ and _**Fortnite**_.
+ㅤ➢ ⚡ Fun facts about me: I love playing fps games, as _**Free Fire**_, _**Standoff**_ _and_ _**Fortnite**_.
 
 ### Tools
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
