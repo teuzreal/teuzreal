@@ -3,7 +3,7 @@
 _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I currently live in the municipality of Maranguape-Ce, at Parque São João. I am a student at the _Federal Institute of Ceará (IFCE), Maranguape Campus_, where I am pursuing a Technical degree in Informatics. I'm here to start my small journey on _**GitHub**_.
 
 
-ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ and _**C++**_. 
+ㅤ➢ 🌱 Currently, in this course, I am studying _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ _and_ _**C++**_. 
 
               ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
 ![HTML5](https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5&logoColor=FF6633)
