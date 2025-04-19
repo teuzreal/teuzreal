@@ -1,4 +1,5 @@
-<h1 align="center"> ¡Hola! ¿Todo bien? 👋🏼</h1>
+<h1 align="center"> ¡Hola! ¿Todo bien? <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32">
+</h1>
 
 _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualmente vivo en el municipio de Maranguape-Ce, en el Parque São João. Soy estudiante del _Instituto Federal de Ceará (IFCE), en el campus de Maranguape_, donde estudio Informática Técnica. Y estoy aquí para comenzar mi pequeño viaje en _**GitHub**_.
 
