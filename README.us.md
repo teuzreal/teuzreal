@@ -1,4 +1,5 @@
-<h1 align="center">Hello! How are you? 👋🏼</h1>
+<h1 align="center">Hello! How are you? <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32">
+</h1>
 
 _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I currently live in the municipality of Maranguape-Ce, at Parque São João. I am a student at the _Federal Institute of Ceará (IFCE), Maranguape Campus_, where I am pursuing a Technical degree in Informatics. I'm here to start my small journey on _**GitHub**_.
 
