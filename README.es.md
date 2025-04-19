@@ -14,7 +14,7 @@ _**Me llamo Matheus Castro**_. Soy del interior de Ceará (Tijuca), pero actualm
 ![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=CC9900)
 ![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=C%2B%2B&logoColor=CC6699)
 
-ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&size_weight=0.5&count_weight=0.5&theme=dark)
+ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&size_weight=0.5&count_weight=0.5&title_color=ffffff&bg_color=ffffff00&border_color=222222)
 
 ㅤ➢ 📫 Si quieres, puedes contactarme por correo electrónico: matheus.castro09@aluno.ifce.edu.br
 
