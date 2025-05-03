@@ -29,6 +29,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ%20IDEA-6633FF.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1.svg?style=for-the-badge&logo=Tinkercad&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
