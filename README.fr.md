@@ -21,6 +21,14 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 
 ㅤ➢ ⚡ Quelques curiosités à propos de moi: J'adore jouer à des jeux fps, comme _**Free Fire**_, _**Standoff**_ _et_ _**Fortnite**_.
 
+### Mes Projets
+
+Ci-dessous, je présente les _**Projets**_ que j’ai développés au cours de mon apprentissage en tant que programmeur, tout en suivant une formation en _**Informatique Technique**_. Chaque projet reflète l’application pratique des connaissances que j’acquiers et ma progression continue dans le domaine.
+
+➢ _**Sept projets**_ réalisés avec des concepts de base en _**HTML**_, dans sa version la plus récente, _**HTML5**_.
+
+[![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
+
 ### Outils
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
