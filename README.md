@@ -24,7 +24,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ### Meus Projetos
 
-A seguir, apresento os _**Projetos**_ que venho desenvolvendo ao longo do meu aprendizado como Programador, cursando _**Informática Técnica**_. Cada projeto reflete a aplicação prática dos conhecimentos que estou adquirindo e minha evolução contínua na área.
+A seguir, apresento os _**Projetos**_ que venho desenvolvendo ao longo do meu aprendizado como programador, cursando _**Informática Técnica**_. Cada projeto reflete a aplicação prática dos conhecimentos que estou adquirindo e minha evolução contínua na área.
 
 ➢  _**Sete Projetos**_ feitos com conceitos básicos de _**HTML**_ na sua versão mais recente, _**HTML5**_.
 
