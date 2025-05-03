@@ -24,8 +24,11 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ### Meus Projetos
 
-7 projetos HTML da disciplina Desenvolvimento Web 1
+A seguir, apresento os _**Projetos**_ que venho desenvolvendo ao longo do meu aprendizado como Programador, cursando _**Informática Técnica**_. Cada projeto reflete a aplicação prática dos conhecimentos que estou adquirindo e minha evolução contínua na área.
 
+➢  _**Sete Projetos**_ feitos com conceitos básicos de _**HTML**_ na sua versão mais recente, _**HTML5**_.
+
+[![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
 
 ### Ferramentas
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
