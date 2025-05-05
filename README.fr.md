@@ -25,9 +25,11 @@ _**Je m'appelle Matheus Castro**_. Je viens de l'intérieur du Ceará (Tijuca), 
 
 Ci-dessous, je présente les _**Projets**_ que j’ai développés au cours de mon apprentissage en tant que programmeur, tout en suivant une formation en _**Informatique Technique**_. Chaque projet reflète l’application pratique des connaissances que j’acquiers et ma progression continue dans le domaine.
 
-➢ _**Sept Projets**_ réalisés avec des concepts de base en _**HTML**_, dans sa version la plus récente, _**HTML5**_.
-
 [![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
+
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCard/)
+
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzzcastro.github.io/ProjetoCars/)
 
 ### Outils
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
