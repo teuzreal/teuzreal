@@ -26,15 +26,10 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 A seguir, apresento os _**Projetos**_ que venho desenvolvendo ao longo do meu aprendizado como programador, cursando _**Informática Técnica**_. Cada projeto reflete a aplicação prática dos conhecimentos que estou adquirindo e minha evolução contínua na área.
 
-➢  _**Sete Projetos**_ feitos com conceitos básicos de _**HTML**_ na sua versão mais recente, _**HTML5**_.
 
 [![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
 
-➢ _**Projetc Card**_ feito apenas com _**HTML5**_ e _**CSS3**_
-
 [![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCard/)
-
-➢ _**Projeto Cars**_ desenvolvido com _**HTML5**_, _**CSS3**_ e _**JavaScript**_.
 
 [![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzzcastro.github.io/ProjetoCars/)
 
