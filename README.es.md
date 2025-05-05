@@ -25,9 +25,11 @@ _y_ _**Fortnite**_.
 
 A continuación, presento los _**Proyectos**_ que he ido desarrollando a lo largo de mi aprendizaje como programador, mientras curso _**Informática Técnica**_. Cada proyecto refleja la aplicación práctica de los conocimientos que estoy adquiriendo y mi evolución continua en el área.
 
-➢ _**Siete Proyectos**_ realizados con conceptos básicos de _**HTML**_ en su versión más reciente, _**HTML5**_.
-
 [![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
+
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCard/)
+
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzzcastro.github.io/ProjetoCars/)
 
 ### Herramientas
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
