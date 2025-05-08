@@ -15,7 +15,7 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 ![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=CC9900)
 ![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=C%2B%2B&logoColor=CC6699)
 
-ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzzcastro&hide_progress=true&count_weight=0.5&title_color=000000&bg_color=ffffff&border_color=222222)
+ㅤㅤ   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuzreal&hide_progress=true&count_weight=0.5&title_color=000000&bg_color=ffffff&border_color=222222)
 
 ㅤ➢ 📫 You can contact me via email: matheus.castro09@aluno.ifce.edu.br
 
@@ -25,11 +25,11 @@ _**My name is Matheus Castro**_. I'm from the interior of Ceará (Tijuca), but I
 
 Below, I present the _**Projects**_ I have been developing throughout my learning journey as a programmer, while studying _**Technical Informatics**_. Each project reflects the practical application of the knowledge I am acquiring and my continuous growth in the field.
 
-[![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetosWeb1-HTML/)
+[![Projects HTML](https://img.shields.io/badge/Projects%20HTML-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetosWeb1-HTML/)
 
-[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCard/)
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzreal.github.io/ProjetoCard/)
 
-[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzzcastro.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzzcastro.github.io/ProjetoCars/)
+[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzreal.github.io/ProjetoCars/)
 
 ### Tools
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
