@@ -6,15 +6,6 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ _e_ _**C++**_. 
 
-              ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
-![HTML5](https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5&logoColor=FF6633)
-![CSS](https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=6633FF)
-![JavaScript](https://img.shields.io/badge/javascript-222222?&style=for-the-badge&logo=html5&logoColor=FFFF00)
-![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=linux&logoColor=99FF00)
-![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=MySQL&logoColor=3399CC)
-![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=CC9900)
-![C++](https://img.shields.io/badge/C%2B%2B-222222?style=for-the-badge&logo=C%2B%2B&logoColor=CC6699)
-
 ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email: matheus.castro09@aluno.ifce.edu.br
 
 ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. como _**Free Fire**_, _**Standoff**_ _e_ _**Fortnite**_.
