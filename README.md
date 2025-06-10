@@ -10,13 +10,6 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. como _**Free Fire**_, _**Standoff**_ _e_ _**Fortnite**_.
 
-### Meus Projetos
-
-A seguir, apresento os _**Projetos**_ que venho desenvolvendo ao longo do meu aprendizado como programador, cursando _**Informática Técnica**_. Cada projeto reflete a aplicação prática dos conhecimentos que estou adquirindo e minha evolução contínua na área.
-
-
-[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetoCard)[![Projects HTML](https://img.shields.io/badge/Project%20Card-222222?style=for-the-badge&logo=css3&logoColor=6633ff)](https://teuzreal.github.io/ProjetoCard/) [![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Cars-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzreal.github.io/ProjetoCars/) [![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=html5&logoColor=FF6633)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/-222222?style=for-the-badge&logo=CSS3&logoColor=6633ff)](https://teuzreal.github.io/ProjetoCars)[![Projects HTML](https://img.shields.io/badge/Project%20Store-222222?style=for-the-badge&logo=html5&logoColor=FFFF00)](https://teuzreal.github.io/ProjetoStore/)
-
 ### Ferramentas
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
