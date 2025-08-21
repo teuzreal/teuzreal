@@ -4,13 +4,15 @@
 
 _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualmente estou morando no município de Maranguape-Ce no Parque São João, sou estudante do *Instituto Federal do Ceará (IFCE), no Campus de Maranguape*, onde curso Infomática Técnica. E estou aqui para começar minha pequena jornada no _**GitHub**_.
 
-ㅤ➢ 🌱 Atualmente nesse curso eu estou estudando _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**Shell**_, _**MySQL**_, _**Java**_ _e_ _**C++**_. 
-
 ㅤ➢ 📫 Se quiser pode entrar em contato comigo pelo email: matheus.castro09@aluno.ifce.edu.br
 
 ㅤ➢ ⚡ Curiosidades sobre mim: Eu amo jogar jogos de fps. como _**Free Fire**_, _**Standoff**_ _e_ _**Fortnite**_.
 
-### Ferramentas
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,cs,mysql)](https://skillicons.dev)
+
+### Tools
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-222222.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=veed&logoColor=white)
