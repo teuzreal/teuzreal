@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Store</title>
+</head>
+<body>
+  <header>
+    <div class="logo">Store</div>
+    <nav>
+      <ul>
+        <li>Home</li>
+        <li>Produtos</li>
+        <li>Contatos</li>
+      </ul>
+    </nav>
+  </header>
+  <main class="container">
+    <div class="tech-circle">
+      <div class="circle" id="one"></div>
+      <div class="circle" id="two"></div>
+      <div class="circle" id="three"></div>
+      <div class="circle" id="four"></div>
+    </div>
+    <div class="list">
+      <div class="item active">
+        <div class="product-img">
+          <img src="./img/apple-watch.png" alt="Apple Watch">
+        </div>
+        <div class="content">
+          <p class="product-tag">Novo Lançamento</p>
+          <p class="product-name">Apple Watch Series 10</p>
+          <p class="description">O Apple Watch Series 10 chega com design mais fino, tela maior e mais brilhante, além
+            de novos recursos de saúde, como detecção de apneia do sono e sensores de temperatura e profundidade. Está
+            disponível em dois tamanhos e novos acabamentos.</p>
+          <button class="btn">Saiba Mais</button>
+        </div>
+      </div>
+      <div class="item">
+        <div class="product-img">
+          <img src="./img/air-pods.png" alt="Air Pods Max">
+        </div>
+        <div class="content">
+          <p class="product-tag">Som Premium</p>
+          <p class="product-name">Air Pods Max</p>
+          <p class="description">Os AirPods Max são fones over-ear da Apple com design sofisticado, cancelamento ativo
+            de ruído, áudio espacial e até 20 horas de bateria. Oferecem som imersivo e integração perfeita com
+            dispositivos Apple.</p>
+          <button class="btn">Saiba Mais</button>
+        </div>
+      </div>
+      <div class="item">
+        <div class="product-img">
+          <img src="./img/vision-pro.png" alt="Vision Pro">
+        </div>
+        <div class="content">
+          <p class="product-tag">Alta Performance</p>
+          <p class="product-name">Vision Pro</p>
+          <p class="description">O Apple Vision Pro é o headset de realidade mista da Apple, que combina realidade
+            aumentada e virtual. Com telas micro-OLED de altíssima resolução, áudio espacial e controle por gestos e
+            olhos, ele oferece uma experiência imersiva e intuitiva.</p>
+          <button class="btn">Saiba Mais</button>
+        </div>
+      </div>
+    </div>
+    <div class="arrows">
+      <button class="arrow-btn" id="prev">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-short" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5"/>
+        </svg>
+      </button>
+      <button class="arrow-btn" id="next">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right-short" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8"/>
+        </svg>
+      </button>
+    </div>
+    <div class="indicators">
+      <div class="numbers">01</div>
+      <div class="dots">
+        <div class="dot active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+    </div>
+  </main>
+</body>
+<script src="./script.js"></script>
+</html>
