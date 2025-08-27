@@ -10,7 +10,7 @@ _**Me chamo Matheus Castro**_. Sou do interior do Ceará (Tijuca), mas atualment
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,cs,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,cpp,cs)](https://skillicons.dev)
 
 ### Tools
 ![Android](https://img.shields.io/badge/Samsung-Galaxy_A55-999999?style=for-the-badge&logo=f-droid&logoColor=white)
