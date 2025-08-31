@@ -1,1 +1,1 @@
-![Veja Aqui](https://teuzreal.github.io/MarioJump/)
+[Veja Aqui](https://teuzreal.github.io/MarioJump/)
