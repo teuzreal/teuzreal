@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+.background-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark .background-light {
+  opacity: 0;
+}
+
+.dark .background-dark {
+  opacity: 1;
+}
+
+.background-light,
+.background-dark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.8s ease;
+}
+
+.background-light {
+  background: linear-gradient(135deg, #d9f0ff, #aee2ff);
+  opacity: 1;
+}
+
+.background-dark {
+  background: linear-gradient(135deg, #2b2b2b, #6b48ff);
+  opacity: 0;
+}
+
+.toggle-container {
+  position: relative;
+  width: 80px;
+  height: 40px;
+  background: linear-gradient(90deg, #b5dbf8, #8cccf5);
+  box-shadow: inset 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.toggle-container.dark {
+  background: linear-gradient(90deg, #1d2332, #222);
+  box-shadow: inner 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.toggle {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(145deg, #ffffff, #f0f0f0);
+  border-radius: 50%;
+  top: 2px;
+  left: 2px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: left 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55),
+    background 0.8s ease, box-shadow 0.8s ease;
+}
+
+.toggle-container.dark .toggle {
+  left: 42px;
+  background: linear-gradient(45deg, #ffd700, #ffaa00);
+  box-shadow: 0 0 15px rgba(255, 215, 0 0.9), 0 0 25px rgba(107, 72, 255, 0.7);
+}
+
+.emoji {
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  font-size: 30px;
+  filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.8));
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.toggle-container.dark .emoji.sun {
+  opacity: 0;
+  transform: translateX(-50%) translateY(-10px);
+}
+
+.toggle-container:not(.dark) .emoji.moon {
+  opacity: 0;
+  transform: translateX(-50%) translateY(-10px);
+}
+
+.toggle-container.dark .emoji.moon {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0) rotate(360deg);
+}
+
+.toggle-container:not(.dark) .emoji.sun {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0) rotate(360deg);
+}
